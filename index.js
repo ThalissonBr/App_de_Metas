@@ -46,7 +46,7 @@ const listarMetas = async () => {
 }   
 
 const metasRealizadas = async () => {
-    const realizadas = metas.filter(() => {
+    const realizadas = metas.filter((meta) => {
         return meta.checked
     })
 
