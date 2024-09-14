@@ -4,11 +4,6 @@
 Este projeto é um aplicativo de metas simples, desenvolvido em JavaScript, como parte do curso NLW - Rocketseat. O objetivo principal deste projeto é aprimorar as habilidades com JavaScript e explorar o uso de bibliotecas e ferramentas úteis para criar aplicações interativas via terminal.
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Funcionalidades do App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 ## 💡 Sobre o Projeto
