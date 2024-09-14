@@ -8,7 +8,7 @@ Este projeto é um aplicativo de metas simples, desenvolvido em JavaScript, como
 
 ## 💡 Sobre o Projeto
 
-Este projeto foi desenvolvido durante a NLW, um evento intensivo promovido pela Rocketseat para ensinar conceitos modernos de desenvolvimento, com foco no uso de JavaScript para criar soluções práticas. Ao longo do curso, foi abordado o uso de pacotes do Node.js, manipulação de arquivos e interação com o usuário via terminal.
+Este projeto foi desenvolvido durante NLW - Rocketseat, um evento intensivo promovido pela Rocketseat para ensinar conceitos modernos de desenvolvimento, com foco no uso de JavaScript para criar soluções práticas. Ao longo do curso, foi abordado o uso de pacotes do Node.js, manipulação de arquivos e interação com o usuário via terminal.
 
 ## 💻 Funcionalidades do App
 
