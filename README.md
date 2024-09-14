@@ -1,6 +1,6 @@
 <h1 align="center">Projeto NLW - App de Metas</h1>
 
-<p align="center">
+<p align="">
 Este projeto é um aplicativo de metas simples, desenvolvido em JavaScript, como parte do curso NLW - Rocketseat. O objetivo principal deste projeto é aprimorar as habilidades com JavaScript e explorar o uso de bibliotecas e ferramentas úteis para criar aplicações interativas via terminal.
 </p>
 
